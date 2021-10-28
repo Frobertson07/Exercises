@@ -1,2 +1,2 @@
-# Circles
+# Exercises
 It got circles
